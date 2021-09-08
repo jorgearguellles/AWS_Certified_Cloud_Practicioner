@@ -4,17 +4,12 @@
 
 # 2. Six Cloud Computing Advantages
 
-## 2.1. Trade Capital Expense For Variable Expense
-  Pay only for what you use
-## 2.2. Benefit from massive economies of scale
-
-## 2.3. Stop guessing about capacity
-
-## 2.4. Increase spped and agility
-
-## 2.5. Stop spending money runninf and maintiaining data centers
-
-## 2.6. Go global in minutes
+1. Trade Capital Expense For Variable Expense
+2. Benefit from massive economies of scale
+3. Stop guessing about capacity
+4. Increase spped and agility
+5. Stop spending money runninf and maintiaining data centers
+6. Go global in minutes
 
 # 3. Cloud Computing Types
 
